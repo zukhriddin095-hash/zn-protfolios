@@ -1,0 +1,107 @@
+{
+  "role": "Junior Frontend Developer",
+  "nav": {
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "journey": "Journey",
+    "contact": "Contact"
+  },
+  "hero": {
+    "avail": "Open to opportunities",
+    "h1": "Crafting Digital",
+    "h2": "Experiences",
+    "h3": "Through Code.",
+    "p": "I’m Zukhriddin Nurmatov, a Junior Frontend Developer based in Tashkent, Uzbekistan. I build modern, responsive, and interactive web experiences with React, Next.js, and TypeScript.",
+    "cta1": "Explore My Work",
+    "cta2": "Contact Me"
+  },
+  "about": {
+    "h": "Learning in public, building with care.",
+    "p1": "I studied frontend development at Najot Ta’lim, where I moved from page layout basics to component-based apps with React and Next.js.",
+    "p2": "I’m drawn to interactive interfaces: motion that explains, layouts that adapt, and 3D that earns its place on the page.",
+    "p3": "I aim for clean, maintainable code and interfaces that are beautiful, accessible, and fast.",
+    "ph": "Portrait placeholder",
+    "phn": "Photo placeholder — replace with your own"
+  },
+  "skills": {
+    "h": "The tools I work with"
+  },
+  "sk": {
+    "core": "Core technologies",
+    "fw": "Frameworks",
+    "style": "Styling",
+    "state": "State management"
+  },
+  "proj": {
+    "h": "Selected work",
+    "note": "These four are demo concepts, not shipped client work. Replace them in the PROJECTS list."
+  },
+  "demo": "Demo concept",
+  "live": "Live demo",
+  "repo": "GitHub",
+  "soon": "Link not added yet",
+  "p1": {
+    "t": "Storefront UI",
+    "d": "A responsive e-commerce interface with cart state and product filtering."
+  },
+  "p2": {
+    "t": "Analytics dashboard",
+    "d": "An interactive SaaS dashboard with charts and global state."
+  },
+  "p3": {
+    "t": "Launch landing page",
+    "d": "A fast, accessible marketing page with careful typography."
+  },
+  "p4": {
+    "t": "3D web experience",
+    "d": "A creative scene driven by pointer and scroll."
+  },
+  "jr": {
+    "h": "My learning path",
+    "note": "Milestones are editable and carry no verified dates.",
+    "items": [
+      [
+        "Najot Ta’lim",
+        "Frontend development education: the foundation of my practice."
+      ],
+      [
+        "JavaScript and TypeScript",
+        "Learning the language deeply, then adding types for safer code."
+      ],
+      [
+        "React and Next.js projects",
+        "Building component-driven interfaces and routed applications."
+      ],
+      [
+        "State and interaction",
+        "Exploring Redux Toolkit, Zustand, and interactive web experiences."
+      ]
+    ]
+  },
+  "ct": {
+    "h": "Let’s build something together.",
+    "p": "Have a project, an internship, or a team that needs a frontend developer? Write to me.",
+    "name": "Name",
+    "email": "Email",
+    "msg": "Message",
+    "send": "Send message",
+    "sending": "Sending…",
+    "ok": "Message sent.",
+    "fail": "Sending failed. Email me directly instead.",
+    "noback": "This form is not connected to an email service yet, so nothing was sent. Please email me directly.",
+    "vn": "Enter your name.",
+    "ve": "Enter a valid email address.",
+    "vm": "Write a message of at least 10 characters."
+  },
+  "ft": {
+    "top": "Back to top",
+    "c": "All rights reserved."
+  },
+  "a": {
+    "lang": "Language",
+    "th": "Switch theme",
+    "menu": "Menu",
+    "close": "Close menu"
+  }
+}

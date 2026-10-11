@@ -1,0 +1,107 @@
+{
+  "role": "Junior Frontend dasturchi",
+  "nav": {
+    "about": "Men haqimda",
+    "skills": "Ko‘nikmalar",
+    "projects": "Loyihalar",
+    "journey": "Yo‘lim",
+    "contact": "Aloqa"
+  },
+  "hero": {
+    "avail": "Takliflarga ochiqman",
+    "h1": "Raqamli tajribani",
+    "h2": "kod orqali",
+    "h3": "yarataman.",
+    "p": "Men Zuhriddin Nurmatov, Toshkentda yashovchi Junior Frontend dasturchiman. React, Next.js va TypeScript yordamida zamonaviy, moslashuvchan va interaktiv veb-saytlar yarataman.",
+    "cta1": "Ishlarimni ko‘rish",
+    "cta2": "Bog‘lanish"
+  },
+  "about": {
+    "h": "Ochiq o‘rganaman, ehtiyotkor yarataman.",
+    "p1": "Men Najot Ta’limda frontend dasturlashni o‘rganganman: sahifa maketlash asoslaridan React va Next.js’dagi komponentli ilovalargacha yetib keldim.",
+    "p2": "Menga interaktiv interfeyslar yoqadi: tushuntiruvchi animatsiya, moslashuvchan maketlar va sahifada o‘rinli bo‘lgan 3D.",
+    "p3": "Toza, qo‘llab-quvvatlash oson kod va chiroyli, qulay hamda tez interfeyslar yaratishni maqsad qilganman.",
+    "ph": "Portret uchun joy",
+    "phn": "Surat uchun joy — o‘zingiznikini qo‘ying"
+  },
+  "skills": {
+    "h": "Ishlatadigan texnologiyalarim"
+  },
+  "sk": {
+    "core": "Asosiy texnologiyalar",
+    "fw": "Freymvorklar",
+    "style": "Stillash",
+    "state": "Holat boshqaruvi"
+  },
+  "proj": {
+    "h": "Tanlangan ishlar",
+    "note": "Bular demo konseptlar, haqiqiy mijoz ishlari emas. Ularni PROJECTS ro‘yxatida almashtiring."
+  },
+  "demo": "Demo konsept",
+  "live": "Demo",
+  "repo": "GitHub",
+  "soon": "Havola hali qo‘shilmagan",
+  "p1": {
+    "t": "Do‘kon interfeysi",
+    "d": "Savat va filtrlar bilan moslashuvchan e-commerce interfeysi."
+  },
+  "p2": {
+    "t": "Analitika paneli",
+    "d": "Grafiklar va global holatga ega interaktiv SaaS dashboard."
+  },
+  "p3": {
+    "t": "Ishga tushirish sahifasi",
+    "d": "Puxta tipografiyali tez va qulay landing sahifa."
+  },
+  "p4": {
+    "t": "3D veb tajriba",
+    "d": "Kursor va aylantirishga javob beradigan ijodiy sahna."
+  },
+  "jr": {
+    "h": "O‘rganish yo‘lim",
+    "note": "Bosqichlarni tahrirlash mumkin; tasdiqlangan sanalar yo‘q.",
+    "items": [
+      [
+        "Najot Ta’lim",
+        "Frontend dasturlash ta’limi — amaliyotimning poydevori."
+      ],
+      [
+        "JavaScript va TypeScript",
+        "Tilni chuqur o‘rganish, so‘ng ishonchli kod uchun turlar."
+      ],
+      [
+        "React va Next.js loyihalari",
+        "Komponentli interfeyslar va marshrutli ilovalar."
+      ],
+      [
+        "Holat va interaktivlik",
+        "Redux Toolkit, Zustand va interaktiv veb tajribalar."
+      ]
+    ]
+  },
+  "ct": {
+    "h": "Birga biror narsa yarataylik.",
+    "p": "Loyiha, amaliyot yoki frontend dasturchi kerak bo‘lgan jamoa bormi? Menga yozing.",
+    "name": "Ism",
+    "email": "Email",
+    "msg": "Xabar",
+    "send": "Xabar yuborish",
+    "sending": "Yuborilmoqda…",
+    "ok": "Xabar yuborildi.",
+    "fail": "Yuborib bo‘lmadi. Menga to‘g‘ridan-to‘g‘ri email yozing.",
+    "noback": "Forma hali email xizmatiga ulanmagan, shuning uchun hech narsa yuborilmadi. Menga to‘g‘ridan-to‘g‘ri email yozing.",
+    "vn": "Ismingizni kiriting.",
+    "ve": "To‘g‘ri email manzilini kiriting.",
+    "vm": "Kamida 10 belgidan iborat xabar yozing."
+  },
+  "ft": {
+    "top": "Yuqoriga",
+    "c": "Barcha huquqlar himoyalangan."
+  },
+  "a": {
+    "lang": "Til",
+    "th": "Mavzuni almashtirish",
+    "menu": "Menyu",
+    "close": "Menyuni yopish"
+  }
+}

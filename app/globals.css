@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 120 17% 92%; --foreground: 140 66% 9%; --card: 120 17% 95%; --card-foreground: 140 66% 9%;
+    --primary: 150 100% 24%; --primary-foreground: 120 17% 94%; --secondary: 120 14% 86%; --secondary-foreground: 140 66% 9%;
+    --muted: 120 14% 86%; --muted-foreground: 140 17% 33%; --accent: 120 14% 86%; --accent-foreground: 140 66% 9%;
+    --destructive: 0 72% 45%; --destructive-foreground: 0 0% 100%; --border: 140 20% 74%; --input: 140 20% 74%; --ring: 150 100% 24%; --radius: 0.25rem;
+  }
+  .dark {
+    --background: 135 43% 3%; --foreground: 138 100% 91%; --card: 140 40% 5%; --card-foreground: 138 100% 91%;
+    --primary: 145 100% 61%; --primary-foreground: 135 43% 3%; --secondary: 140 30% 9%; --secondary-foreground: 138 100% 91%;
+    --muted: 140 30% 9%; --muted-foreground: 138 20% 59%; --accent: 140 30% 12%; --accent-foreground: 138 100% 91%;
+    --destructive: 0 85% 65%; --destructive-foreground: 135 43% 3%; --border: 145 45% 18%; --input: 145 45% 18%; --ring: 145 100% 61%;
+  }
+  * { @apply border-border; }
+  html { scroll-behavior: smooth; scroll-padding-top: 90px; }
+  body { @apply bg-background font-sans text-foreground antialiased; overflow-x: hidden; line-height: 1.75; }
+  body::before { content: ""; position: fixed; inset: 0; z-index: -1; pointer-events: none;
+    background: linear-gradient(hsl(var(--primary) / .06) 1px, transparent 1px) 0 0/44px 44px, linear-gradient(90deg, hsl(var(--primary) / .06) 1px, transparent 1px) 0 0/44px 44px; }
+  .dark body::after { content: ""; position: fixed; inset: 0; z-index: -1; pointer-events: none; background: repeating-linear-gradient(0deg, rgba(0,0,0,.22) 0 1px, transparent 1px 3px); }
+}
+@layer components { .wrap { @apply mx-auto w-[min(1180px,calc(100%-2.5rem))]; } }
+@media (prefers-reduced-motion: reduce) { *, ::before, ::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; } }
